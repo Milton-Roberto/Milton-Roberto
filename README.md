@@ -7,4 +7,6 @@ I'm studying programming, and I'm learning a bit of C#, along with CSS, HTML, an
 
 I am currently looking to start my career in this field 
 
-I use this space to share and organize my projects 📂🛠️
+Portuguese is my first language, so I am still working on improving my English skills
+
+I use this space to share and organize my projects 📂

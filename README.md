@@ -1,5 +1,5 @@
-### Hello there 👋: welcome to my profile 💜
-My name is Milton. You can call me Miltinho 😊
+### Hello there : welcome to my profile 
+My name is Milton.
 
 - I'm from Brazil 🇧🇷 
 - I'm studying programming, and I'm learning a bit of C#, along with CSS, HTML, and JavaScript 💻✨
